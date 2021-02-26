@@ -1,7 +1,7 @@
 ## Hola, I'm [Prakhar Varshney!](https://prkrhv.github.io/about/) 👋
 
 <a href="https://twitter.com/prakharnegative">
-  <img align="left" alt="Prakhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Prakhar's Twitter" width="22px" src="https://prkhrv.github.io//icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/prakhar-varshney-886153149/">
   <img align="left" alt="Prakhar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
