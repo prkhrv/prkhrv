@@ -7,7 +7,7 @@
   <img align="left" alt="Prakhar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/prkhrv">
-  <img align="left" alt="Prakhar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Prakhar's Github" width="22px" src="https://prkhrv.github.io//icons/github.png" />
 </a>
 
 <br/>
