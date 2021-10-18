@@ -40,6 +40,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prkhrv&show_icons=true&theme=dracula&line_height=27" alt="Prkhr's github stats"/>
 </a>
 
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/prkhrv/count.svg" />
+  </br>
+</p>
+
 
 
 <div align="center">
