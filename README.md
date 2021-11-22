@@ -1,4 +1,4 @@
-## Hola, I'm [Prakhar Varshney!](https://prkrhv.github.io/) 👋
+## Hola, I'm [Prakhar Varshney!](https://prkhrv.github.io/) 👋
 
 <a href="https://twitter.com/prakharnegative">
   <img align="left" alt="Prakhar's Twitter" width="22px" src="https://prkhrv.github.io//icons/twitter.png" />
