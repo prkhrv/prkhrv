@@ -34,7 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/prkhrv">
-  <img style="width:45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkhrv&theme=dark&hide=css,html&show_icons=true&langs_count=100&layout=compact" />
+  <img style="width:40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prkhrv&theme=dark&hide=css,html&show_icons=true&langs_count=100&layout=compact" />
 </a>
 <a href="https://github.com/prkhrv">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prkhrv&show_icons=true&theme=dracula&line_height=27" alt="Prkhr's github stats"/>
