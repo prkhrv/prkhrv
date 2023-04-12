@@ -1,4 +1,29 @@
 ## Hola, I'm [Prakhar Varshney!](https://prkhrv.github.io/) 👋
+ ```________________________________________
+/ Hi there, I'm a software engineer who \
+\ loves to code and create cool things! /
+ ----------------------------------------
+   \         ,        ,
+    \       /(        )`
+     \      \ \___   / |
+            /- _  `-/  '
+           (/\/ \ \   /\
+           / /   | `    \
+           O O   ) /    |
+           `-^--'`<     '
+          (_.)  _  )   /
+           `.___/`    /
+             `-----' /
+<----.     __ / __   \
+<----|====O)))==) \) /====
+<----'    `--' `.__,' \
+             |        |
+              \       /
+        ______( (_  / \______
+      ,'  ,-----'   |        \
+      `--{__________)        \/
+  ```
+      
 
 <a href="https://twitter.com/prakharnegative">
   <img align="left" alt="Prakhar's Twitter" width="22px" src="https://prkhrv.github.io//icons/twitter.png" />
