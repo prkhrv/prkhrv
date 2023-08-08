@@ -55,7 +55,7 @@
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![prkhrv snake gif](https://github.com/prkhrv/prkhrv/blob/output/github-contribution-grid-snake.svg)   
+![prkhrv snake gif](https://raw.githubusercontent.com/prkhrv/prkhrv/output/github-contribution-grid-snake.svg)   
 
 <p align="center"> 
   <b>Visitor count</b><br>
